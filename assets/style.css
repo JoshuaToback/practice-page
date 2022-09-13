@@ -1,0 +1,58 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header, footer {
+    width: 100%;
+    height: auto;
+    background-color: rgb(68, 0, 100);
+    color: white;
+    display: block;
+}
+
+.heading {
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: right;
+    color: #ffffff;
+  }
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 40px;
+}
+
+#email {
+    position: relative;
+    display: inline-block;
+    background-color: blanchedalmond;
+    color: darkblue;
+    font-size: 25px;
+}
+
+#github {
+    position: relative;
+    display: inline-block;
+    background-color: rgba(118, 255, 141, 0.555);
+    color: silver;
+    font-size: 25px;
+}
+
+#linkedin {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(65, 78, 255);
+    color: white;
+    font-size: 25px;
+}
